@@ -27,4 +27,4 @@ different set of rules. The player is responsible for saving the princess.
 * use SPACE button to jump.(the player jumps only in the direction in which it was moving)
 * use 'q' to quit the game.
 
-##### Play the agme and try to save the Queen :)
+##### Play the game and try to save the Queen :)
