@@ -7,6 +7,7 @@ from Donkey import *
 from Board import *
 
 """getting a character as an input"""
+
 def getchar():
 	"""Returns a single character from standard input"""
 	"""Function taken from Github : https://gist.github.com/jasonrdsouza/1901709"""
